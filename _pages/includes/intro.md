@@ -1,0 +1,7 @@
+Kexue Fu is an associate professor at [Shandong Computer Science Center (National Supercomputer Center in Jinan)]<img src='./images/nscc.png' style='width: 6em;'> in Qilu University of Technology (Shandong Academy of Sciences). He is now working on Embodied AI, 3DV and Medical LMs. If you are seeking any form of **academic cooperation**, please feel free to email kexue at [fukexue@fudan.edu.cn](mailto:fukexue@fudan.edu.cn). He is hiring interns!
+
+Kexue received his Ph.D. (2018-2023) from Fudan University / Shanghai Key Lab of Medical Image Computing and Computer Assisted Intervention, advised by Prof. [Manning Wang](https://basicmed.fudan.edu.cn/8c/ab/c28704a429227/page.htm). He is fortunate to have internships at Shanghai AILab <img src='./images/shailab.png' style="width: 4em;">.
+
+His research interest includes Embodied AI, 3DV, Point Cloud Registration, and Medical Image Analysis. He has published 30+ papers <a href='https://scholar.google.com/citations?user=wRs-_DwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Ffukexue%2Ffukexue.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, CVPR, ICCV, ICRA. 
+
+His works include [RGM](https://github.com/fukexue/RGM), [FAST](https://github.com/fukexue/FAST), [POS-BERT](https://codeocean.com/capsule/5546213/tree), and [PointMBF](https://github.com/phdymz/PointMBF).
