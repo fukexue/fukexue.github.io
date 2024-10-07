@@ -11,6 +11,6 @@
 
 [**Project**](https://github.com/fukexue/RGM) 
   - propose a novel deep graph matching based framework for point cloud registration.
-  - propose a module based on deep graph matching to calculate graph edge.
+  - propose a module based on deep graph matching to calculate graph edge. 
 </div>
 </div>
