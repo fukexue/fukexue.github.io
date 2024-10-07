@@ -10,7 +10,7 @@
 **Kexue Fu**, Shaolei Liu, Xiaoyuan Luo, Manning Wang.
 
 [**Project**](https://github.com/fukexue/RGM) 
-  - we propose a novel deep graph matching based framework for point cloud registration.
-  - we develop a module based on deep graph matching to calculate a soft correspondence matrix.
+  - propose a novel deep graph matching based framework for point cloud registration.
+  - propose a module based on deep graph matching to calculate graph edge.
 </div>
 </div>
