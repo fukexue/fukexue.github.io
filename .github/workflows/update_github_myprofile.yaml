@@ -20,4 +20,5 @@ jobs:
         git add README.md
         git add images
         git commit -m "update my description automatically"
+        echo $(remote_repo)
         git push "${remote_repo}" HEAD:main --force
