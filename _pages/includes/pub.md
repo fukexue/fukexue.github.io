@@ -72,7 +72,6 @@ Zhiwei Yang, **Kexue Fu**, Minghong Duan, Linhao Qu, Shuo Wang, Zhijian Song
 **Kexue Fu**, Xiaoyuan Luo, Linhao Qu, Shuo Wang, Ying Xiong, Ilias Maglogiannis, Longxiang Gaom, Manning Wang
 
 [**Project**](https://github.com/fukexue/FAST) 
-  - Annotation-efficient dual-level strategy.
   - A novel and efficient dual-tier few-shot learning paradigm for WSI classification.
   - Approache the accuracy of fully supervised methods with only 0.22% annotation costs. 
 </div>
