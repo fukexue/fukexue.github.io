@@ -78,7 +78,7 @@ Zhiwei Yang, **Kexue Fu**, Minghong Duan, Linhao Qu, Shuo Wang, Zhijian Song
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/top.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/top.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The Rise of AI Language Pathologists: Exploring Two-level Prompt Learning for Few-shot Weakly-supervised Whole Slide Image Classification](https://proceedings.neurips.cc/paper_files/paper/2023/file/d599b81036fd1a3b3949b7d444f31082-Paper-Conference.pdf)
