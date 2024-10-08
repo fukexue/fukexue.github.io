@@ -4,7 +4,7 @@
 - *2014.09 - 2018.06*, Undergraduate, Wuhan University of Technology, Wuhan.
 
 # 💬 Invited Talks
-- *2023.12*, MICS Online Forum \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
+- *2023.12*, MICS Online Forum \| [\[Video\]](https://www.koushare.com/live/details/25128?vid=74446)
 - *2023.11*, CCF Digital Medicine Symposium, Young Scholars Forum
 
 # 💻 Internships
