@@ -83,7 +83,7 @@ Zhiwei Yang, **Kexue Fu**, Minghong Duan, Linhao Qu, Shuo Wang, Zhijian Song
 
 [The Rise of AI Language Pathologists: Exploring Two-level Prompt Learning for Few-shot Weakly-supervised Whole Slide Image Classification](https://proceedings.neurips.cc/paper_files/paper/2023/file/d599b81036fd1a3b3949b7d444f31082-Paper-Conference.pdf)
 
-inhao Qu, Xiaoyuan Luo, **Kexue Fu**, Manning Wang, Zhijian Song
+Linhao Qu, Xiaoyuan Luo, **Kexue Fu**, Manning Wang, Zhijian Song
 
 [**Project**](https://github.com/miccaiif/TOP.) 
   - Few-Shot Weakly Supervised Learning for WSI Classification 
