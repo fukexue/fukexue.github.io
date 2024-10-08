@@ -47,7 +47,7 @@ Zhihao Li, **Kexue Fu**, Haoran Wang, Manning Wang
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/seco.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/seco.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Separate and conquer: Decoupling co-occurrence via decomposition and representation for weakly supervised semantic segmentation](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Separate_and_Conquer_Decoupling_Co-occurrence_via_Decomposition_and_Representation_for_CVPR_2024_paper.pdf)
