@@ -11,7 +11,26 @@
 **Kexue Fu**, Shaolei Liu, Xiaoyuan Luo, Manning Wang
 
 [**Project**](https://github.com/fukexue/RGM) 
-  - propose a novel deep graph matching based framework for point cloud registration.
-  - propose a module based on deep graph matching to calculate graph edge. 
+  - Propose a novel deep graph matching based framework for point cloud registration.
+  - Propose a module based on deep graph matching to calculate graph edge. 
+</div>
+</div>
+
+
+
+## 🏥 Medical LMs
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/fast.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FAST: A Dual-tier Few-Shot Learning Paradigm for Whole Slide Image Classification](https://arxiv.org/pdf/2409.19720)
+
+**Kexue Fu**, Xiaoyuan Luo, Linhao Qu, Shuo Wang, Ying Xiong, Ilias Maglogiannis, Longxiang Gaom, Manning Wang
+
+[**Project**](https://github.com/fukexue/FAST) 
+  - Annotation-efficient dual-level strategy.
+  - A novel and efficient dual-tier few-shot learning paradigm for WSI classification.
+  - Approache the accuracy of fully supervised methods with only 0.22% annotation costs. 
 </div>
 </div>
