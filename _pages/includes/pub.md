@@ -25,7 +25,7 @@
 Mingzhi Yuan, **Kexue Fu**, Zhihao Li, Yucong Meng, Manning Wang
 
 [**Project**](https://github.com/phdymz/PointMBF) 
-  - Propose propose a network implementing multi-scale bidirectional fusion strategy.
+  - Propose a network implementing multi-scale bidirectional fusion strategy.
   - Our method achieves new state-of-the-art performance on ScanNet and 3DMatch. 
 </div>
 </div>
