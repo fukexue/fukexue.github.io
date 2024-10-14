@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-## <img src='./images/mvision.jpg' style='width: 1em;'> Machine Vision
+## <img src='./images/machinevision.jpg' style='width: 1em;'> Machine Vision
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/rgm.png' alt="sym" width="100%"></div></div>
