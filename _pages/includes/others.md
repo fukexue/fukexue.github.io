@@ -4,6 +4,7 @@
 - *2014.09 - 2018.06*, Undergraduate, Wuhan University of Technology, Wuhan.
 
 # 💬 Invited Talks
+- *2024.11*, SDCV, Expert Forum \| [\[Report\]](https://www.sdaai.org.cn/newsinfo/7733794.html)
 - *2023.12*, MICS Online Forum \| [\[Video\]](https://www.koushare.com/live/details/25128?vid=74446)
 - *2023.11*, CCF Digital Medicine Symposium, Young Scholars Forum \| [\[Report\]](https://test2.ccf.org.cn/Media_list/TC/2023-12-21/811267.shtml)
 
