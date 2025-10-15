@@ -4,4 +4,6 @@ Kexue received his Ph.D. (2018-2023) from Fudan University / Shanghai Key Lab of
 
 His research interests include Embodied AI, Machine Vision, and Medical Large Models. He has published 30+ papers <a href='https://scholar.google.com/citations?user=wRs-_DwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Ffukexue%2Ffukexue.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> in the top international AI conferences and journals, including NeurIPS, CVPR, ICCV, AAAI, ICRA and TPAMI. He also serves as a reviewer for TPAMI, IJCV, IEEE/CAA JAS, TVCG, TCSVT, RA-L, NeurIPS, CVPR, ICCV, AAAI, ECCV, IROS and ICRA.
 
+He has presided over four national and provincial-level projects, including the National Natural Science Foundation of China and the Shandong Provincial Key R&D Program.
+
 His works include [RGM](https://github.com/fukexue/RGM), [FAST](https://github.com/fukexue/FAST), [POS-BERT](https://codeocean.com/capsule/5546213/tree), and [PointMBF](https://github.com/phdymz/PointMBF).
