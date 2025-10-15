@@ -17,6 +17,21 @@
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/rgm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dual Focus-Attention Transformer for Robust Point Cloud Registration]
+(https://openaccess.thecvf.com/content/CVPR2025/papers/Fu_Dual_Focus-Attention_Transformer_for_Robust_Point_Cloud_Registration_CVPR_2025_paper.pdf)
+
+**Kexue Fu**, Mingzhi Yuan, Changwei Wang, Weiguang Pang, Jing Chi, Manning Wang, Longxiang Gao
+
+[**Project**](https://github.com/fukexue/DFAT) 
+  - We reveal a potential issue in previous works related to dense feature interactions, which compromise geometric consistency and discriminability, leading to suboptimal registration performance.
+  - We propose a framework named DFAT, leveraging dual-level focusattention feature interactions to enhance overall performance.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/pointmbf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
