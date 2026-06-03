@@ -6,4 +6,6 @@ His research interests include Embodied AI, Machine Vision, and Medical Large Mo
 
 He has presided over four national and provincial-level projects, including the National Natural Science Foundation of China and the Shandong Provincial Key R&D Program.
 
+对研究生的要求(亦是招生要求): 经过一到两年的系统性学习，在自己所研究的小领域见解超越导师或可与导师辩论。
+
 His works include [RGM](https://github.com/fukexue/RGM), [FAST](https://github.com/fukexue/FAST), [POS-BERT](https://codeocean.com/capsule/5546213/tree), and [PointMBF](https://github.com/phdymz/PointMBF).
